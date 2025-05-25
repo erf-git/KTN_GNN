@@ -1,0 +1,10 @@
+numpy
+dill
+pandas
+pytorch
+torchvision
+torchaudio
+cudatoolkit
+scipy
+networkx
+scikit-learn
